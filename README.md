@@ -14,10 +14,4 @@ L3xbot is an AI-driven robotic assistant designed to help the visually impaired 
 - 🔹 **OpenCV** – Image recognition and computer vision  
 - 🔹 **YOLOv3** – Deep learning model for object detection  
 - 🔹 **Google Text-to-Speech (gTTS)** – Voice feedback  
-- 🔹 **Arduino/Raspberry Pi** – Hardware integration for haptic feedback  
-
-## **Getting Started**  
-### **1. Clone the Repository**  
-```bash
-git clone https://github.com/YOUR-USERNAME/L3xbot.git
-cd L3xbot 
+- 🔹 **Arduino/Raspberry Pi** – Hardware integration for haptic feedback 
