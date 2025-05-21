@@ -1,7 +1,7 @@
-# L3xbot 🚀  
+# L3xBOT 🚀  
 
 ## **Vision**  
-L3xbot is an AI-driven robotic assistant designed to help the visually impaired "see" through advanced **computer vision, haptic feedback, and AI-powered speech processing**.  
+L3xBOT is an AI-driven robotic assistant designed to help the visually impaired "see" through advanced **computer vision, haptic feedback, and AI-powered speech processing**.  
 
 ## **Features**  
 - 🏷 **Object Recognition** – Uses YOLO-based detection to identify objects in real-time.  
